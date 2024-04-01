@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TnA+eXV0znTpNIy/O24ZkvWAhIAbAVuQCSbGLIZUhAtDgiYz0DUg1k6W6fm+WVHPRE2DxlB68fywi7FycKzW6A==",
+  "dgSpecHash": "c88BBZ4cfHmch5yiH5Yum5Hc7hjEQbCgo+GvJ/gK9nJGh20oTZZJpqQbrkK3duvot8EmHZqZCvEfRnEzk6ZQXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakobaka\\Desktop\\TableConstructor\\TableConstructor.csproj",
+  "projectFilePath": "C:\\Users\\jakobaka\\Desktop\\MahjongTableConstructor\\TableConstructor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

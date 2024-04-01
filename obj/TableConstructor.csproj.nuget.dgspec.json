@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakobaka\\Desktop\\TableConstructor\\TableConstructor.csproj": {}
+    "C:\\Users\\jakobaka\\Desktop\\MahjongTableConstructor\\TableConstructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakobaka\\Desktop\\TableConstructor\\TableConstructor.csproj": {
+    "C:\\Users\\jakobaka\\Desktop\\MahjongTableConstructor\\TableConstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakobaka\\Desktop\\TableConstructor\\TableConstructor.csproj",
+        "projectUniqueName": "C:\\Users\\jakobaka\\Desktop\\MahjongTableConstructor\\TableConstructor.csproj",
         "projectName": "TableConstructor",
-        "projectPath": "C:\\Users\\jakobaka\\Desktop\\TableConstructor\\TableConstructor.csproj",
+        "projectPath": "C:\\Users\\jakobaka\\Desktop\\MahjongTableConstructor\\TableConstructor.csproj",
         "packagesPath": "C:\\Users\\jakobaka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakobaka\\Desktop\\TableConstructor\\obj\\",
+        "outputPath": "C:\\Users\\jakobaka\\Desktop\\MahjongTableConstructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakobaka\\AppData\\Roaming\\NuGet\\NuGet.Config"
