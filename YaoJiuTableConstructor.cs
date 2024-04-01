@@ -41,12 +41,7 @@ namespace ShantenCalculator {
         private static void GenerateAllConfigs(byte[] currentConfig, int remainingTiles)
         {
             table.Add(Encode(currentConfig));
-            // print each config
-            string line ="";
-            foreach(var count in currentConfig) {
-                line += count;
-            }
-            Console.WriteLine(line);
+            
             if (remainingTiles == 0)
             {
                 return;
