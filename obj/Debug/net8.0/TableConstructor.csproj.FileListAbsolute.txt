@@ -1,0 +1,28 @@
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.AssemblyInfoInputs.cache
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.AssemblyInfo.cs
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.csproj.CoreCompileInputs.cache
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\bin\Debug\net8.0\TableConstructor.exe
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\bin\Debug\net8.0\TableConstructor.deps.json
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\bin\Debug\net8.0\TableConstructor.runtimeconfig.json
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\bin\Debug\net8.0\TableConstructor.dll
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\bin\Debug\net8.0\TableConstructor.pdb
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.dll
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\refint\TableConstructor.dll
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.pdb
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\TableConstructor.genruntimeconfig.cache
+C:\Users\jakobaka\Desktop\New folder\TableConstructor\obj\Debug\net8.0\ref\TableConstructor.dll
+C:\Users\jakobaka\Desktop\TableConstructor\bin\Debug\net8.0\TableConstructor.exe
+C:\Users\jakobaka\Desktop\TableConstructor\bin\Debug\net8.0\TableConstructor.deps.json
+C:\Users\jakobaka\Desktop\TableConstructor\bin\Debug\net8.0\TableConstructor.runtimeconfig.json
+C:\Users\jakobaka\Desktop\TableConstructor\bin\Debug\net8.0\TableConstructor.dll
+C:\Users\jakobaka\Desktop\TableConstructor\bin\Debug\net8.0\TableConstructor.pdb
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.AssemblyInfoInputs.cache
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.AssemblyInfo.cs
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.csproj.CoreCompileInputs.cache
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.dll
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\refint\TableConstructor.dll
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.pdb
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\TableConstructor.genruntimeconfig.cache
+C:\Users\jakobaka\Desktop\TableConstructor\obj\Debug\net8.0\ref\TableConstructor.dll
