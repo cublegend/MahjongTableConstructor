@@ -25,13 +25,15 @@ namespace ShantenCalculator {
         };
         private static byte[][] yaojiuPairs = {
             [2,0,0,0,0,0,0,0,0],
-            [0,0,0,0,0,0,0,0,2]
+            [0,0,0,0,0,0,0,0,2],
+            [0,0,0,0,0,0,0,0,0]
         };
 
         public static void CreateYaojiuTable(string path)
         {
             GenerateAllConfigs([2,0,0,0,0,0,0,0,0], 12);
             GenerateAllConfigs([0,0,0,0,0,0,0,0,2], 12);
+            GenerateAllConfigs([0,0,0,0,0,0,0,0,0], 14);
             WriteCSV(table, path);
         }
 

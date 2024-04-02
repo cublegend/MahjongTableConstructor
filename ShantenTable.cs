@@ -7,7 +7,7 @@ namespace ShantenCalculator {
     /// </summary>
     public static class ShantenTable
     {
-        public static string path = "Assets/Scripts/Helpers/MahjongHandLogic/table.csv";
+        public static string path = "table.csv";
         public static Dictionary<UInt32, UInt16> table = new();
         public static bool TableLoaded = false;
 

@@ -18,6 +18,7 @@ namespace ShantenCalculator
             // Later replace the calculation with table lookup
             // Test.ShantenTests();
             // ShantenTableConstructor.WriteShantenCSV("table.csv");
+            // ShantenTable.LoadTable();
             YaoJiuTableConstructor.CreateYaojiuTable("yaojiu.csv");
         }
 
